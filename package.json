@@ -1,0 +1,19 @@
+{
+  "name": "deportes-api",
+  "version": "1.0.0",
+  "description": "api de deportes",
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Damaris Azcarate",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

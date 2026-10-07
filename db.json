@@ -1,0 +1,144 @@
+{
+  "deportes": [
+    {
+      "id": 1,
+      "nombre": "Fútbol",
+      "escenario": "Cancha o Campo de fútbol",
+      "dimensiones": "105 m x 68 m",
+      "numero_de_elementos": 11,
+      "equipo": {
+        "short": "Short deportivo ligero con cintura elástica",
+        "playera": "Camiseta de tejido técnico transpirable",
+        "tacos": "Calzado con tacos para césped natural (FG) o artificial (AG)",
+        "medias": "Medias altas hasta la rodilla para fijar espinilleras"
+      },
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 2,
+      "nombre": "Baloncesto",
+      "escenario": "Cancha cubierta de duela de madera",
+      "dimensiones": "28 m x 15 m",
+      "numero_de_elementos": 5,
+      "equipo": {
+        "short": "Short holgado de corte largo",
+        "playera": "Jersey sin mangas de poliéster perforado",
+        "tacos": "Tenis de caña alta con suela antiderrapante de goma",
+        "medias": "Medias de compresión de longitud media"
+      },
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 3,
+      "nombre": "Béisbol",
+      "escenario": "Campo de béisbol (Diamante)",
+      "dimensiones": "27.43 m entre bases y 100 m hasta la barda central",
+      "numero_de_elementos": 9,
+      "equipo": {
+        "short": "Pantalón largo reforzado con rodilleras internas",
+        "playera": "Camisola deportiva con botones frontales",
+        "tacos": "Tacos con tacos de metal o plástico duro",
+        "medias": "Medias altas tradicionales con estribos"
+      },
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 4,
+      "nombre": "Rugby",
+      "escenario": "Campo de rugby sobre césped",
+      "dimensiones": "100 m x 70 m (más áreas de in-goal)",
+      "numero_de_elementos": 15,
+      "equipo": {
+        "short": "Short reforzado de costuras dobles",
+        "playera": "Camiseta ajustada de alta resistencia al agarre",
+        "tacos": "Tacos con tacos largos intercambiables para terreno blando",
+        "medias": "Medias altas de tejido grueso"
+      },
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 5,
+      "nombre": "Voleibol",
+      "escenario": "Cancha de superficie sintética o madera",
+      "dimensiones": "18 m x 9 m",
+      "numero_de_elementos": 6,
+      "equipo": {
+        "short": "Short de compresión elástico",
+        "playera": "Playera entallada de secado rápido",
+        "tacos": "Tenis de pista con amortiguación y suela de goma sin marcas",
+        "medias": "Medias tobilleras o de corte medio"
+      },
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 6,
+      "nombre": "Fútbol Americano",
+      "escenario": "Emparrillado / Campo de fútbol americano",
+      "dimensiones": "110 m x 48.8 m (120 x 53.3 yardas)",
+      "numero_de_elementos": 11,
+      "equipo": {
+        "short": "Pantalón de funda con bolsas para enfundar protecciones",
+        "playera": "Jersey elástico ajustado sobre las hombreras",
+        "tacos": "Tacos de alta tracción para césped sintético",
+        "medias": "Medias tubulares de compresión"
+      },
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 7,
+      "nombre": "Hockey sobre Césped",
+      "escenario": "Cancha de césped sintético de agua",
+      "dimensiones": "91.4 m x 55 m",
+      "numero_de_elementos": 11,
+      "equipo": {
+        "short": "Short deportivo ligero (o falda/skort deportiva)",
+        "playera": "Playera técnica sin cuello",
+        "tacos": "Zapatillas con multitacos pequeños de goma para césped sintético",
+        "medias": "Medias gruesas para cubrir espinilleras de protección"
+      },
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 8,
+      "nombre": "Balonmano",
+      "escenario": "Pabellón deportivo / Cancha de interior",
+      "dimensiones": "40 m x 20 m",
+      "numero_de_elementos": 7,
+      "equipo": {
+        "short": "Short deportivo liviano sin bolsillos",
+        "playera": "Playera de cuello redondo resistente al tracción",
+        "tacos": "Zapatillas de sala con gran tracción lateral y estabilidad",
+        "medias": "Medias deportivas clásicas"
+      },
+      "pais": "Alemania"
+    },
+    {
+      "id": 9,
+      "nombre": "Tenis",
+      "escenario": "Cancha de tenis (Arcilla, Césped o Pista Dura)",
+      "dimensiones": "23.77 m x 8.23 m (Individuales)",
+      "numero_de_elementos": 1,
+      "equipo": {
+        "short": "Short con bolsillos profundos para pelotas",
+        "playera": "Playera polo o de cuello redondo transpirable",
+        "tacos": "Zapatillas de tenis con suela según la superficie de juego",
+        "medias": "Medias de algodón con acolchado en talón y puntera"
+      },
+      "pais": "Reino Unido"
+    },
+    {
+      "id": 10,
+      "nombre": "Waterpolo",
+      "escenario": "Piscina olímpica de waterpolo",
+      "dimensiones": "30 m x 20 m",
+      "numero_de_elementos": 7,
+      "equipo": {
+        "short": "Traje de baño de competición tipo slip o resistente al cloro",
+        "playera": "Gorro de waterpolo con protectores de oídos (sustituye la camiseta)",
+        "tacos": "No aplica (sin calzado, se compite descalzo)",
+        "medias": "No aplica"
+      },
+      "pais": "Inglaterra"
+    }
+  ]
+}
